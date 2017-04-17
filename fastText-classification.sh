@@ -17,6 +17,8 @@ DATADIR=input
 mkdir -p "${RESULTDIR}"
 mkdir -p "${DATADIR}"
 
+./fastText/make
+
 cat "${DATADIR}/title_train1" | normalize_text > "${DATADIR}/title_train1.train"
 cat "${DATADIR}/title_test1" | normalize_text > "${DATADIR}/title_test1.test"
 
