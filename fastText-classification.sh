@@ -17,12 +17,8 @@ DATADIR=data
 mkdir -p "${RESULTDIR}"
 mkdir -p "${DATADIR}"
 
-./fastText/make
-
 cat "${DATADIR}/title_train1" | normalize_text > "${DATADIR}/title_train1.train"
 cat "${DATADIR}/title_test1" | normalize_text > "${DATADIR}/title_test1.test"
-
-./fastText/make
 
 ./fastText/fasttext supervised -input "${DATADIR}/title_train1.train" -output "${RESULTDIR}/title_train1" -dim 10 -lr 0.1 -wordNgrams 2 -minCount 1 -bucket 10000000 -epoch 5 -thread 4
 

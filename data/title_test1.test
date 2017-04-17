@@ -2069,13 +2069,13 @@ __label__5118 , missing date values in time series modeling using `r`
 __label__1196 , create a column by filtering and dividing another column with a specific number to get the reminder in r
 __label__7297 , r - importing multiple xlsx files with a for loop
 __label__7647 , data . table and . sdcols with paste0 to create a character vector
-__label__6895 , r ggplot2 exponential regression with rÂ² and p
+__label__6895 , r ggplot2 exponential regression with râ² and p
 __label__5031 , support meaning for r arules
 __label__4920 , split string containing ordered numbers in r
 __label__5202 , a non index-oriented way to search for unique values between two lists in r
 __label__4445 , r selenium - difficulty extracting data from complex table
 __label__7764 , all possible combinations for large numbers in r
-__label__5438 , dplyr ' s filter function how to return every value ( or Â«cancelÂ» the effect of filter ) ? 
+__label__5438 , dplyr ' s filter function how to return every value ( or â«cancelâ» the effect of filter ) ? 
 __label__4554 , modifying the legend colour and text in ggplot - r
 __label__3632 , how to delete duplicates but keep most recent data in r
 __label__7296 , r search through each row , and delete duplicate values ( may differ in each row ) in each row
@@ -4894,7 +4894,7 @@ __label__1871 , set breaks / labels with stat_summary in ggplot2
 __label__2922 , name is not xml namespace compliant
 __label__7640 , how do i cbind elements of a list that are data . frame of the same row size into one large data . frame
 __label__8819 , r ggplot2 using italics and non-italics in the same category label
-__label__7493 , r âÂ how to join two data frames by nearest time-date ? 
+__label__7493 , r ââ how to join two data frames by nearest time-date ? 
 __label__8405 , how to update ( assign new values ) to r data frames stored in a list
 __label__3632 , print out regular expression table with kable
 __label__8405 , find all columns with character formated date values
@@ -5753,7 +5753,7 @@ __label__8837 , plot a function in r
 __label__8430 , create a function for barchart and call it in a loop and save all graphs
 __label__7797 , reset ratinginput in shiny app
 __label__6603 , leave all logs from users who have specific log ( r language ) 
-__label__8860 , r - can ' t find a way to plot the line which is closest to local maximums ( mÃ©thode de la bande ) 
+__label__8860 , r - can ' t find a way to plot the line which is closest to local maximums ( mã©thode de la bande ) 
 __label__7060 , r ggplot2 facet_grid scales and space
 __label__5374 , counting in r using the which statement
 __label__8756 , r for loop creating new columns populated by conditional statement based on the previous column
@@ -6353,7 +6353,7 @@ __label__6313 , text with maths in r
 __label__5958 , ggplot2 and glm plot a predicted probability
 __label__2950 , loop to change outliers of multiple variables to 95% in r
 __label__6832 , prsummary in r caret package for imbalance data
-__label__6144 , find identical observations in a columnÂ´s data frame but different in another column
+__label__6144 , find identical observations in a columnâ´s data frame but different in another column
 __label__3642 , data manipulation in r systematically replacing values in a column with strings
 __label__7296 , sumif and pivoting in r ( reshape2 , melt , cast , merge . . ) 
 __label__4554 , how to use ggplot to align my two labels ? 
@@ -7173,7 +7173,7 @@ __label__7756 , r-python how to eliminate specific rows and columns ?
 __label__5740 , keep all characters before backslash r
 __label__6921 , add the frequencies based on match between two existing columns from two dataframes
 __label__7640 , mgcv how to set number and / or locations of knots for splines
-__label__6313 , getting average/mean over a setÂ number of days in r
+__label__6313 , getting average/mean over a setâ number of days in r
 __label__5670 , r fill values in data . frame in parallel mode possible ? 
 __label__6313 , aggregating rows with same ids and retaining only unique entries in r
 __label__5332 , geom_crossbar ignores alpha parameter ? 
